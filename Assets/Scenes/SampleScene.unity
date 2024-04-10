@@ -597,6 +597,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 427835605}
+  - component: {fileID: 427835606}
   m_Layer: 0
   m_Name: Japones
   m_TagString: Untagged
@@ -623,6 +624,23 @@ Transform:
   - {fileID: 565391556}
   m_Father: {fileID: 1635209928}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &427835606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 427835604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aefb0219e7fb0434bafbdc0fe875ae59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: 43313e1df1a3a854aa423b2f6f65154b, type: 2}
+  _texto1: {fileID: 565391557}
+  _texto2: {fileID: 706369828}
+  _texto3: {fileID: 893174704}
+  _texto4: {fileID: 554518816}
 --- !u!1 &554518814
 GameObject:
   m_ObjectHideFlags: 0
@@ -871,6 +889,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 630103753}
+  - component: {fileID: 630103754}
   m_Layer: 0
   m_Name: "Espa\xF1olEspa\xF1a"
   m_TagString: Untagged
@@ -897,6 +916,23 @@ Transform:
   - {fileID: 1043450806}
   m_Father: {fileID: 1635209928}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &630103754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630103752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aefb0219e7fb0434bafbdc0fe875ae59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: 3bebf5c0c7aed9547be2ae16eb585b03, type: 2}
+  _texto1: {fileID: 1043450807}
+  _texto2: {fileID: 274242098}
+  _texto3: {fileID: 1119201943}
+  _texto4: {fileID: 1594163733}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1641,6 +1677,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1561497123}
+  - component: {fileID: 1561497124}
   m_Layer: 0
   m_Name: Arabe
   m_TagString: Untagged
@@ -1667,6 +1704,23 @@ Transform:
   - {fileID: 1630263696}
   m_Father: {fileID: 1635209928}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1561497124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561497122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aefb0219e7fb0434bafbdc0fe875ae59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traduccion: {fileID: 11400000, guid: a2a36181a677d3543b8b568a8ac41f20, type: 2}
+  _texto1: {fileID: 1630263697}
+  _texto2: {fileID: 853100473}
+  _texto3: {fileID: 2035789133}
+  _texto4: {fileID: 1657455703}
 --- !u!1 &1594163731
 GameObject:
   m_ObjectHideFlags: 0
